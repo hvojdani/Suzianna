@@ -2,6 +2,8 @@
 
 A library for writing flexible, readable and maintainable acceptance tests, using Screenplay Pattern. Inspired by Serenity BDD.
 
+this fork fixed async performable problems on orginal suizina and more fixed. veiw last closed pr.
+
 ### Build Status
 
 
